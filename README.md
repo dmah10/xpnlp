@@ -4,7 +4,7 @@
 
 This is the repository for the paper "When Explainability Meets Privacy: An Investigation at the Intersection of Post-hoc Explainability and Differential Privacy in the Context of Natural Language Processing" accepted to AAAI/ACM Conference on AI, Ethics, and Society (AIES) 2025
 
-- Paper: TBA
+- Paper: (https://arxiv.org/abs/2508.10482)
 
 ## Overview
 
